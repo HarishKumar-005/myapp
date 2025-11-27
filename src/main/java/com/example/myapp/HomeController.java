@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HomeController {
     @GetMapping("/")
     public String home() {
-        return "Spring Boot App is Running on Render!";
+        return "Hiii Akshu,All the best 4 FSE exam🦚✨";
     }
 }
